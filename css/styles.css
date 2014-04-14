@@ -5,11 +5,26 @@ img {
 
 h1 {
 	color: orange;
-	text-shadow: 10px 10px 10px black;
+	font-family: 'Balthazar', serif;
+	letter-spacing: 2px;
+}
+
+p {
+	line-height: 24px;
+}
+
+h3 {
+	color: #41F500;
+	font-family: 'Balthazar', serif;
+	font-weight: bold;
 }
 
 
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
+}
+
+.highlight {
+	color: blue;
 }
