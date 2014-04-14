@@ -1,4 +1,9 @@
 /* Your Website Styles */
+body {
+	background: url("../img/bg.png");
+}
+
+
 img {
 	width: 400px;
 }
@@ -7,6 +12,7 @@ h1 {
 	color: orange;
 	font-family: 'Balthazar', serif;
 	letter-spacing: 2px;
+	text-transform: uppercase;
 }
 
 p {
