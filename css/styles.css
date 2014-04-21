@@ -13,25 +13,38 @@ h1 {
 	color: orange;
 	font-family: 'Clicker Script', 'cursive';
 	font-weight: bold;
-	letter-spacing: 2px;
+	letter-spacing: 3px;
 	text-align: center;
+	font-size: 55px;
 }
 
 h2 {
-	font-family: 'Marck Script', 'cursive';
+	font-family: 'Playball', 'cursive';
+	letter-spacing: 2px;
+	color: orange;
 }
 
 p {
 	line-height: 24px;
-	border: 1px solid white;
-	padding: 20px;
-	margin: 10px;
+	color: white;
+	padding: 5px;
 }
 
-h3 {
-	color: #41F500;
-	font-weight: bold;
+.icons li a {
+	background: url("../img/email.png") no-repeat;
+	background-size: 32px;
+	padding: 9px 12px 10px 40px;
+	font-size: 12px;
 }
+
+ul {
+	list-style-type: none;
+}
+.create {
+	text-align: center;
+	color: darkblue;
+}
+
 
 
 /* Show Grid */
