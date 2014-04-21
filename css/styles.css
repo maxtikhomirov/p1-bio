@@ -1,11 +1,11 @@
 /* Your Website Styles */
 body {
-	background: url("../img/bg.png");
+	background: url("../img/bg1.png");
 }
 
 
 img {
-	width: 400px;
+	width: 350px;
 }
 
 h1 {
@@ -13,6 +13,7 @@ h1 {
 	font-family: 'Balthazar', serif;
 	letter-spacing: 2px;
 	text-transform: uppercase;
+	text-align: center;
 }
 
 p {
